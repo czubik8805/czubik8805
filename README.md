@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a programmer with experience in Python and Django programming. I am also familiar with other web technologies, such as ReactJS.
+
+In my work, I focus on designing, implementing, and testing software. I enjoy challenges, and creating innovative solutions and projects is not only my job but also my passion.
+
+I value flexibility in my work. Additionally, I provide programming services outside of my work, which allows me to develop my skills and expand my knowledge.
+
+In my opinion, good collaboration is based on mutual trust, understanding, and communication. I always strive to do my tasks as well as possible and effectively cooperate with others.
+
+I am convinced that my programming skills and experience can make a valuable contribution to the development of my future clients' projects.
+
 <!--
 **czubik8805/czubik8805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
